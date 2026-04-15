@@ -1,0 +1,4 @@
+C:\Users\Aluno\Documents\Alice\Estruturas_Condicionais\obj\Debug\net10.0\Estruturas_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Alice\Estruturas_Condicionais\obj\Debug\net10.0\Estruturas_Condicionais.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Alice\Estruturas_Condicionais\obj\Debug\net10.0\Estruturas_Condicionais.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Alice\Estruturas_Condicionais\obj\Debug\net10.0\Estruturas_Condicionais.csproj.CoreCompileInputs.cache

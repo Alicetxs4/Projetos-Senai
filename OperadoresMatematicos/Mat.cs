@@ -1,0 +1,12 @@
+int x = 8;
+Console.WriteLine(x);
+x += 5;
+Console.WriteLine(x);
+x -= 4;
+Console.WriteLine(x);
+x *= 20;
+Console.WriteLine(x);
+x /= 2;
+Console.WriteLine(x);
+x %= 3;
+Console.WriteLine(x);

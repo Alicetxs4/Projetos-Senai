@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\bin\Debug\net10.0\Revisao_FOR.exe
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\bin\Debug\net10.0\Revisao_FOR.deps.json
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\bin\Debug\net10.0\Revisao_FOR.runtimeconfig.json
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\bin\Debug\net10.0\Revisao_FOR.dll
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\bin\Debug\net10.0\Revisao_FOR.pdb
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.dll
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\refint\Revisao_FOR.dll
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.pdb
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\Revisao_FOR.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Alice\Revisao_FOR\obj\Debug\net10.0\ref\Revisao_FOR.dll

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\bin\Debug\net10.0\Conversor_Moeda.exe
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\bin\Debug\net10.0\Conversor_Moeda.deps.json
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\bin\Debug\net10.0\Conversor_Moeda.runtimeconfig.json
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\bin\Debug\net10.0\Conversor_Moeda.dll
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\bin\Debug\net10.0\Conversor_Moeda.pdb
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.dll
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\refint\Conversor_Moeda.dll
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.pdb
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\Conversor_Moeda.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Alice\Conversor_Moeda\obj\Debug\net10.0\ref\Conversor_Moeda.dll
